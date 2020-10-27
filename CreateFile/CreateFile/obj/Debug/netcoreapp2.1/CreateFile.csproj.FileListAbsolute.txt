@@ -1,0 +1,11 @@
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\bin\Debug\netcoreapp2.1\CreateFile.deps.json
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\bin\Debug\netcoreapp2.1\CreateFile.runtimeconfig.json
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\bin\Debug\netcoreapp2.1\CreateFile.runtimeconfig.dev.json
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\bin\Debug\netcoreapp2.1\CreateFile.dll
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\obj\Debug\netcoreapp2.1\CreateFile.csprojAssemblyReference.cache
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\obj\Debug\netcoreapp2.1\CreateFile.csproj.CoreCompileInputs.cache
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\obj\Debug\netcoreapp2.1\CreateFile.AssemblyInfoInputs.cache
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\obj\Debug\netcoreapp2.1\CreateFile.AssemblyInfo.cs
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\bin\Debug\netcoreapp2.1\CreateFile.pdb
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\obj\Debug\netcoreapp2.1\CreateFile.dll
+C:\Users\swinal\Desktop\Me\create-file\CreateFile\CreateFile\obj\Debug\netcoreapp2.1\CreateFile.pdb
