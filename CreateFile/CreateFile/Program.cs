@@ -12,8 +12,9 @@ namespace CreateFile
                 Name = "jim",
                 Email = "jimjam@githum.com"
             };
-            var getpath = PathHandler.GetAnyPath("MyDetailsJson");
+            var getpath = PathHandler.GetAnyPath("myclass");
             JsonFileHandler.CreateFile(getpath, data);
+            //JsonFileHandler.ReadFile(getpath);
         }
     }
 }

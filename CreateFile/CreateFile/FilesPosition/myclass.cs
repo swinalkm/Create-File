@@ -1,0 +1,1 @@
+public class Demo { public string name{get;set;} }

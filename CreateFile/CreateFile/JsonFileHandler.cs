@@ -1,5 +1,8 @@
 ﻿using Newtonsoft.Json;
+using System;
 using System.IO;
+using System.Linq;
+using System.Reflection.Emit;
 
 namespace CreateFile
 {
@@ -10,8 +13,14 @@ namespace CreateFile
         public static Status CreateFile(string path, DataToUpload dataToUpload)
         {
             var jsonData = JsonConvert.SerializeObject(dataToUpload);
-            File.WriteAllText(path, jsonData);
+            File.WriteAllText(path, "public class Demo { public string name{get;set;} }");
             return Status.Successful;
+        }
+        public static void ReadFile(string path)
+        {
+            var data = File.ReadAllLines(path).ToList();
+            var res = AssemblyBuilder.DefineDynamicAssembly(new System.Reflection.AssemblyName(""), AssemblyBuilderAccess.Run);
+            var dejson = JsonConvert.DeserializeObject(data.FirstOrDefault());
         }
     }
 }
